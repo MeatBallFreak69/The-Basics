@@ -25,12 +25,6 @@ namespace The_Basics
             Console.WriteLine("M   M");
             Console.WriteLine("M   M");
             Console.WriteLine("M   M");
-
-
-
-
-
-
         }
     }
 }
